@@ -4,10 +4,6 @@
         "url": "https://github.com/b-cubed-eu/gcube"
     },
     {
-        "package": "dubicube",
-        "url": "https://github.com/b-cubed-eu/dubicube"
-    },
-    {
         "package": "b3gbi",
         "url": "https://github.com/b-cubed-eu/b3gbi"
     },
