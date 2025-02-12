@@ -1,0 +1,10 @@
+[
+    {
+        "package": "gcube",
+        "url": "https://github.com/b-cubed-eu/gcube"
+    },
+    {
+        "package": "dubicube",
+        "url": "https://github.com/b-cubed-eu/dubicube"
+    }
+]
