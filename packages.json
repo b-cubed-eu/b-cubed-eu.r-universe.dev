@@ -6,5 +6,13 @@
     {
         "package": "dubicube",
         "url": "https://github.com/b-cubed-eu/dubicube"
+    },
+    {
+        "package": "b3gbi",
+        "url": "https://github.com/b-cubed-eu/b3gbi"
+    },
+    {
+        "package": "mgrs",
+        "url": "https://github.com/hrbrmstr/mgrs"
     }
 ]
