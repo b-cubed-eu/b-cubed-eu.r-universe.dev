@@ -10,5 +10,9 @@
     {
         "package": "mgrs",
         "url": "https://github.com/hrbrmstr/mgrs"
+    },
+    {
+        "package": "dubicube",
+        "url": "https://github.com/b-cubed-eu/dubicube"
     }
 ]
