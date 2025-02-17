@@ -14,5 +14,9 @@
     {
         "package": "dubicube",
         "url": "https://github.com/b-cubed-eu/dubicube"
+    },
+    {
+        "package": "pdindicatoR",
+        "url": "https://github.com/b-cubed-eu/pdindicatoR"
     }
 ]
