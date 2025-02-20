@@ -18,5 +18,9 @@
     {
         "package": "pdindicatoR",
         "url": "https://github.com/b-cubed-eu/pdindicatoR"
+    },
+    {
+        "package": "impIndicator",
+        "url": "https://github.com/b-cubed-eu/impIndicator"
     }
 ]
