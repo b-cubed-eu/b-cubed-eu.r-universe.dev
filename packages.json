@@ -22,5 +22,10 @@
     {
         "package": "impIndicator",
         "url": "https://github.com/b-cubed-eu/impIndicator"
+    },
+    {
+        "package": "rgbif",
+        "url": "https://github.com/ropensci/rgbif",
+        "branch": "master"
     }
 ]
