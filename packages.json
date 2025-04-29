@@ -27,5 +27,9 @@
         "package": "rgbif",
         "url": "https://github.com/ropensci/rgbif",
         "branch": "master"
+    },
+    {
+        "package": "b3doc",
+        "url": "https://github.com/b-cubed-eu/b3doc"
     }
 ]
