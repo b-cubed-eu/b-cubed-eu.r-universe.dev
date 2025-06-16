@@ -31,5 +31,13 @@
     {
         "package": "b3doc",
         "url": "https://github.com/b-cubed-eu/b3doc"
+    },
+    {
+        "package": "ebvcube",
+        "url": "https://github.com/EBVcube/ebvcube"
+    },
+    {
+        "package": "trias",
+        "url": "https://github.com/trias-project/trias"
     }
 ]
