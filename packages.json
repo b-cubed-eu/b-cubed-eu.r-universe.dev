@@ -24,13 +24,21 @@
         "url": "https://github.com/b-cubed-eu/impIndicator"
     },
     {
-        "package": "rgbif",
-        "url": "https://github.com/ropensci/rgbif",
-        "branch": "master"
+        "package": "dissmapr",
+        "url": "https://github.com/b-cubed/dissmapr"
+    },
+    {
+        "package": "invasimapr",
+        "url": "https://github.com/b-cubed-eu/invasimapr"
     },
     {
         "package": "b3doc",
         "url": "https://github.com/b-cubed-eu/b3doc"
+    },
+    {
+        "package": "rgbif",
+        "url": "https://github.com/ropensci/rgbif",
+        "branch": "master"
     },
     {
         "package": "ebvcube",
